@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap");
+
+body {
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  background-color: #f9fbe7; /* Creamy yellow background */
+}
+
+header {
+  background-color: #eccdb4; /* Light brown header background */
+}
+
+h1.title {
+  color: #e90064; /* Deep pink title color */
+  font-family: "Great Vibes", cursive;
+  font-size: 45px;
+  font-weight: normal;
+  padding: 5px 5px 0px 5px;
+  margin: 0;
+}
+
+.titlelove {
+  color: crimson; /* Crimson span color */
+}
+
+h3 {
+  margin: 5px;
+  font-family: "Montserrat", sans-serif;
+  color: #060047; /* Dark blue color for headings */
+}
+
+p {
+  color: #b3005e; /* Deep pink color for paragraphs */
+  margin: 5px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.subtitle {
+  color: #060047; /* Dark blue color for subtitles */
+}
+
+section {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #060047; /* Dark blue border */
+  border-radius: 10px;
+  background-color: #f9fbe7; /* Creamy yellow background */
+}
+
+.Buttons {
+  text-align: center;
+}
+
+.Button1,
+.Button2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  border: 2px solid #060047; /* Dark blue border for buttons */
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin: 0px 5px 5px 5px;
+  cursor: pointer;
+}
+
+.shortstory p {
+  color: #060047; /* Dark blue color for journey text */
+  text-align: justify;
+}
+footer p {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+}
